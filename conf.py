@@ -15,10 +15,9 @@
 import os
 import sys
 import sphinx_rtd_theme
-<<<<<<< HEAD
-=======
 
->>>>>>> a215e3724044e1bc878ef5cb39d913571c1c071f
+
+
 sys.path.insert(0, os.path.abspath('.'))
 # sys.path.append("audio.rst")
 # sys.path.append("coclusion.rst")
